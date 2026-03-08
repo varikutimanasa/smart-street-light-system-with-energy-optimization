@@ -1,2 +1,12 @@
-# smart-street-light-system-with-energy-optimization
-Built an automated street lighting system that reduces energy consumption by dynamically adjusting light intensity based on time and motion detection. Implemented using Java and OOP concepts to simulate real-world smart infrastructure solutions.
+# Smart Street Light System
+A smart street lighting system designed to automatically control street lights based on environmental conditions.  
+The system helps in reducing energy consumption by turning lights ON/OFF automatically.
+# Technologies
+1. Embedded Systems
+2. Sensors
+3. Microcontroller
+
+# Features
+1. Automatic light control
+2. Energy efficient
+3. Smart sensing system
